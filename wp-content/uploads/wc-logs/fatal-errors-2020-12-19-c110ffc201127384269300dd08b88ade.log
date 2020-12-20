@@ -1,0 +1,2 @@
+2020-12-19T14:10:41+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 49152 bytes) in C:\xampp\htdocs\WooCommerceProdavnica\wp-includes\functions.php on line 624
+
